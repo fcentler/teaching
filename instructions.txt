@@ -1,1 +1,1 @@
-Add your name to the end of the file "whowashere.txt" and stage & push the file to the server.
+Add your favorite animal to the end of the file "whowashere.txt" and stage & push the file to the server.
